@@ -15,6 +15,9 @@ Greenfield implementation - newly implemented system with nothing transferred fr
 Brownfield implementation - newly implemented system with transferred data from the old system 
 Bluefield implementation - newly implemented system with selective transferred data from the old system
 
+
+![Uploading image.png…]()
+
 ![image](https://github.com/user-attachments/assets/f21d302b-dc8d-4308-9d0d-e2b922b1af72)
 
 ![image](https://github.com/user-attachments/assets/4792e927-2173-49e1-8296-c1cce2f5416b)
