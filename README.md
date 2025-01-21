@@ -23,5 +23,9 @@ Bluefield implementation - newly implemented system with selective transferred d
 
 ![image](https://github.com/user-attachments/assets/6ef75bc4-b7c2-40d7-9a4f-deda9bd7f544)
 
+![image](https://github.com/user-attachments/assets/58a3a790-3863-43b0-9f4a-e0c6c75d3483)
+
+![image](https://github.com/user-attachments/assets/04942420-52a9-4b21-8988-ac10dee5e360)
+
 
 
