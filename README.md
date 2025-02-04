@@ -59,6 +59,20 @@ Bluefield implementation - newly implemented system with selective transferred d
 # SAP-BTP-Application Development and Automation
 ![image](https://github.com/user-attachments/assets/7692cd11-9a69-4ebb-bdc0-40b78750f76a)
 
+![image](https://github.com/user-attachments/assets/e04a4d5c-9abd-4b18-b23b-720c6c349cf0)
+
+![image](https://github.com/user-attachments/assets/904b74b7-a42d-45c7-a4ea-f5b558c44489)
+
+![image](https://github.com/user-attachments/assets/a755b7fc-8af8-466d-9021-c0b50ef3e851)
+
+![image](https://github.com/user-attachments/assets/301c622b-56bf-4584-a3eb-ac9b20fb5cd0)
+
+![image](https://github.com/user-attachments/assets/90a0736a-f847-49e1-ad7f-90aa785530f0)
+
+![image](https://github.com/user-attachments/assets/5a1e9d9d-1d37-4ae9-a132-177836c206e6)
+
+![image](https://github.com/user-attachments/assets/39f069ea-63fd-440a-8149-616e9d3a5a75)
+
 
 # SAP-BTP-Cloud-Development
 
