@@ -41,6 +41,7 @@ Bluefield implementation - newly implemented system with selective transferred d
 
 ![image](https://github.com/user-attachments/assets/5b1d01f7-4956-456c-9034-292a463614f2)
 
+![image](https://github.com/user-attachments/assets/7f7a2ac2-f314-40f7-a6c2-4527cb47fcb7)
 
 # SAP-BTP-Cloud-Runtime
 
