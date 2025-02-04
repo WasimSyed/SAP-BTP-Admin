@@ -107,7 +107,31 @@ Bluefield implementation - newly implemented system with selective transferred d
 
 ![image](https://github.com/user-attachments/assets/d704f268-5c5b-49de-8539-3f6b9f81c59a)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/937b4123-1e92-45f2-b2e3-29a6b7000fe3)
+
+# SAP-BTP-Cloud-AI
+![image](https://github.com/user-attachments/assets/3bce006e-2456-42dd-9713-6fd0f6fd3e0b)
+
+![image](https://github.com/user-attachments/assets/ca3e27e7-a921-4105-b0c2-35756b011cf7)
+
+![image](https://github.com/user-attachments/assets/99b6a6c9-1725-4d8a-b760-8f0a2932b069)
+
+![image](https://github.com/user-attachments/assets/43920c7f-6767-4103-a3d2-ea486a17c25d)
+
+![image](https://github.com/user-attachments/assets/76852083-bb1d-4650-8b2d-e56d825f6b75)
+
+# SAP-BTP-Security functions
+![image](https://github.com/user-attachments/assets/d662ef45-63cb-4d54-86af-36fbe3e9fafd)
+
+![image](https://github.com/user-attachments/assets/8895c246-9f5f-45cf-b088-81a84fc7599c)
+
+![image](https://github.com/user-attachments/assets/cbb3a9bb-d8f0-4d44-89f1-58ad6ccc3a4a)
+
+![image](https://github.com/user-attachments/assets/c1374fd2-c55b-4510-ac3a-43d5813c3745)
+
+![image](https://github.com/user-attachments/assets/3c3a9b86-6a4f-4864-a7d3-9190aef55014)
+
+![image](https://github.com/user-attachments/assets/4d09475b-15b4-45fa-997d-b58171115bac)
 
 
 # SAP-BTP-Cloud-Identity Management
@@ -120,4 +144,8 @@ Bluefield implementation - newly implemented system with selective transferred d
 ![image](https://github.com/user-attachments/assets/024c4067-b35c-44d4-9fff-bada0cfcf133)
 
 
+# SAP-BTP-Cloud-Identity Management
+![image](https://github.com/user-attachments/assets/59454644-6616-4637-b5b2-e7ff10423518)
+
+![image](https://github.com/user-attachments/assets/fa42e0ef-e4c6-4705-b858-cd454d815714)
 
