@@ -4,6 +4,7 @@ the goal of SAP's strategy is to
 
 ![image](https://github.com/user-attachments/assets/ef1fa62d-9015-442f-bae9-974ba3b338d2)
 
+![image](https://github.com/user-attachments/assets/ff47bf35-abbb-4203-aef1-899cdc18d036)
 
 There are two possible business scenarios that can be your starting point for transforming to an intelligent, sustainable enterprise.
 New customer scenario (Scenario A)
